@@ -1,0 +1,6 @@
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+[submodule "meta-gei"]
+	path = meta-gei
+	url = https://github.com/aragua/meta-gei.git
