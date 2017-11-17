@@ -4,3 +4,6 @@
 [submodule "meta-gei"]
 	path = meta-gei
 	url = https://github.com/aragua/meta-gei.git
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
